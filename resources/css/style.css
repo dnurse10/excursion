@@ -2,3 +2,20 @@ body {
   background-color: black;
   color: white;
 }
+
+h1,
+a,
+p,
+video,
+h2,
+img {
+  text-align: center;
+}
+
+.copywrite {
+  text-align: right;
+}
+
+a {
+  color: aquamarine;
+}
